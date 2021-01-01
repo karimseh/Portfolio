@@ -147,7 +147,7 @@ body {
 .container .work img{
     border-radius: 40px;
     transition: all .5s ease-in;
-    box-shadow: 5px 4px 4px -2px #3745C6;
+    box-shadow: 5px 4px 4px -2px var(--secondary);
   
 }
 .container .work img:hover{
